@@ -7,12 +7,16 @@
       "books": [
         {
           "id": "fiqh_001",
-          "title": "منهاج الصالحين افقحتاخحتقفحخاتقخفتحخقتخحاتخحقفتحاختفقحاختخحفقتاحخقفتخاحتقفاخحقخاتقحخفتاتخحقتفاخحت",
+          "title": "منهاج الصالحين ",
           "author": "السيد علي الحسيني السيستاني",
           "presenter": "دار الإسلام",
           "description": "كتاب مبسط يشرح أحكام الطهارة والصلاة بأسلوب واضح وميسر ويمكن الرؤيا .",
+<<<<<<< HEAD
+=======
+          "pages": 440,
+>>>>>>> e413c716c70ed49295ec9840c0d7bdc8149651b3
           "partsCount": 2,
-          "price": 10000,
+          "price": 100000,
           "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/4.jpg",
           "parts": [
             {
