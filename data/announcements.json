@@ -46,15 +46,5 @@
     "startAt": "2026-02-26T19:45:00+03:00",
     "endAt": "2026-03-03T21:30:00+03:00",
     "isActive": true
-  },
-  {
-    "id": "offer_001",
-    "title": "عرض نهاية الأسبوع",
-    "description": "خصم خاص على مجموعة من الكتب المختارة لفترة محدودة.",
-    "imageUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/banners/4.jpg",
-    "type": "عرض",
-    "link": "https://example.com/offer-001",
-    "createdAt": "2026-02-22T13:00:00+03:00",
-    "isActive": true
   }
 ]
