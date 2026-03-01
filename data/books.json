@@ -20,12 +20,6 @@
               "title": "الجزء 1",
               "pages": 400,
               "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
-            },
-            {
-              "partNumber": 2,
-              "title": "الجزء 2",
-              "pages": 450,
-              "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/2.pdf"
             }
           ],
           "createdAt": "2026-02-24T12:00:00+03:00",
