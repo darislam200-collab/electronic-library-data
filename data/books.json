@@ -4,54 +4,3492 @@
       "id": "fiqh",
       "name": "اصدارات دار الاسلام",
       "logoUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/section1_logo.png",
-      "books": [
+  "books": [
+    {
+      "id": "book_001",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/aamalshiryakamela.png",
+      "parts": [
         {
-          "id": "fiqh_001",
-          "title": "منهاج الصالحين",
-          "author": "السيد علي الحسيني السيستاني",
-          "presenter": "دار الإسلام",
-          "description": "كتاب مبسط يشرح أحكام الطهارة والصلاة بأسلوب واضح وميسر ويمكن الرؤيا .",
-          "partsCount": 2,
-          "price": 10000,
-          "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/4.jpg",
-          "parts": [
-            {
-              "partNumber": 1,
-              "title": "الجزء 1",
-              "pages": 400,
-              "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
-            }
-          ],
-          "createdAt": "2026-02-24T12:00:00+03:00",
-          "isFeatured": true
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
         },
         {
-          "id": "fiqh_002",
-          "title": "فقه المعاملات",
-          "author": "حسن الراوي",
-          "presenter": "دار الإسلام",
-          "description": "يتناول أهم أبواب المعاملات المالية المعاصرة بأسلوب عملي.",
-          "partsCount": 2,
-          "price": 12000,
-          "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/4.jpg",
-          "parts": [
-            {
-              "partNumber": 1,
-              "title": "الجزء 1",
-              "pages": 650,
-              "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/3.pdf"
-            },
-            {
-              "partNumber": 2,
-              "title": "الجزء 2",
-              "pages": 550,
-              "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/4.pdf"
-            }
-          ],
-          "createdAt": "2026-02-24T12:00:00+03:00",
-          "isFeatured": false
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
         }
-      ]
+      ],
+      "createdAt": "2026-02-02T08:00:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_002",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/abotalib.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:01:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_003",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/abo-talib.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:02:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_004",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/adwaa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:03:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_005",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/ahkamm-muaahada.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:04:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_006",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/ahsan-qasas.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:05:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_007",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/aklayat-mihna.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:06:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_008",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/alfyat-bnbaraka.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:07:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_009",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/alhalaqat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:08:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_010",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/alharaka-alabadya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:09:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_011",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/alhusayn-.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:10:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_012",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/alirahab.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:11:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_013",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/almaraa-alkamila.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:12:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_014",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/altady.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:13:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_015",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/alurodh-almufasal.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:14:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_016",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/alzaman.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:15:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_017",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/aqel-tafakury.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:16:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_018",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/asaleeb-tughaat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:17:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_019",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/ashart-ilayh.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:18:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_020",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/azmairaq.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:19:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_021",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/bahith-hawl-ali-bn-alhakam.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:20:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_022",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/barnamj-amthal.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:21:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_023",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/battal-muwajaha.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:22:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_024",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/dawanahijimama.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:23:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_025",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/difaf-tanzel.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:24:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_026",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/doros-olomquran.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:25:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_027",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/dumoa-samawat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:26:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_028",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/falk-alnajat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:27:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_029",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/falsafat-sader.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:28:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_030",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/faqih almujadd.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:29:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_031",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/fobyaaltalm.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:30:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_032",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/hadeeth-duat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:31:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_033",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/halataqhadeethmosa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:32:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_034",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/hasad-tableg.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:33:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_035",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/hassan-shubbar.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:34:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_036",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/hawkama.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:35:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_037",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/hayat-hafila.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:36:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_038",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/huqoq-syaseya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:37:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_039",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/ihyaa-majals.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:38:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_040",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/ijazqurany.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:39:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_041",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/ilaqatama.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:40:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_042",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/imam-sajad.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:41:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_043",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/inahmfitya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:42:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_044",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/iqtisadona.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:43:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_045",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/iraqkmanureed.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:44:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_046",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/irhab-takfeer.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:45:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_047",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/irhabwtajwol.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:46:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_048",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/islam-mihaj-hayat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:47:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_049",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/jafarsadeqhayat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:48:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_050",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/jawanbfalsafya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:49:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_051",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/jawanb-mansiya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:50:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_052",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/jawdt-quzweny.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:51:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_053",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kaeef.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:52:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_054",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kaeen-lughaa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:53:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_055",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kaiftakoonmaallah.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:54:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_056",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kaiftaktarsharekhayatk.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:55:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_057",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kaiftanzurilanafsaq.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:56:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_058",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kaifttsadallkawof.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:57:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_059",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kitab-salat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:58:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_060",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kutoob.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T08:59:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_061",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/kutub4.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:00:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_062",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/lataqraba.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:01:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_063",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/lugatahrer.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:02:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_064",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mabagithilmbayan.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:03:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_065",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/madkal-alnqd.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:04:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_066",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mafaheem-sulta.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:05:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_067",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mahatat-mwaqf.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:06:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_068",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/malhamat-kawafl.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:07:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_069",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mamlakatqurtoba.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:08:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_070",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/manhajalbahith.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:09:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_071",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/manhajilamy.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:10:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_072",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/manhaj-ilmy-tilawa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:11:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_073",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/manhaj-tafseer.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:12:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_074",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/manhajyatbahith.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:13:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_075",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/maosoaa-tashreeat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:14:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_076",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/maqtalhussain.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:15:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_077",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/marjeeya-shyeeia.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:16:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_078",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/masajdamaknatharya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:17:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_079",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mashhadthaqafy.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:18:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_080",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/matam-hussayny.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:19:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_081",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mawldrasol.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:20:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_082",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/minhaj-alhayaat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:21:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_083",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/minhaj-bahith.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:22:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_084",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/minhaj-hayat.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:23:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_085",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/muawya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:24:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_086",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mugadamat-qadhaya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:25:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_087",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/muhadarat-shier-araby.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:26:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_088",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/muhammad-idrees.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:27:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_089",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/muhammad-mahdi-sebety.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:28:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_090",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mujtamauna.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:29:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_091",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mukadama-islah-tajded.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:30:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_092",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mukadmat-tareek.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:31:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_093",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/muktasar-kafi.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:32:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_094",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mushkila-iktisadya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:33:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_095",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/mutanaby-saeed.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:34:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_096",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/muzakrat-asfy.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:35:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_097",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/nakid-lugawy.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:36:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_098",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/nas-sada-nas.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:37:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_099",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/nema-raheem.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:38:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_100",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/nukhba-mn-bahitheen.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:39:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_101",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/osol-alfasafa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:40:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_102",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/qandatalhuda.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:41:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_103",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/raii-aam.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:42:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_104",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/raqaba-marjya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:43:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_105",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/rasael-almuhaqq.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:44:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_106",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/rasail-uma.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:45:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_107",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/resalt-islam.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:46:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_108",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/sader2.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:47:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_109",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/sahab-muttyr.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:48:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_110",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/shareeh-sawtyat-seebawaeeh.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:49:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_111",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/shareh-nahij.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:50:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_112",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/sidiqatifawtilqaeya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:51:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_113",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/taasuf-haq-mutawaa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:52:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_114",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tafseer-fiqhy-islamy.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:53:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_115",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tahtheeb-tafseer.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:54:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_116",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tajdedwtagheer.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:55:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_117",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tandeem-qanony.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:56:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_118",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/taqweemqirn15.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:57:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_119",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tarateel-alsahab.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:58:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_120",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tarrek-hizib.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T09:59:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_121",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tashyoa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:00:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_122",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tatawor-shier-arabe.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:01:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_123",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tawaznshaqsya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:02:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_124",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/taweed-asaneed.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:03:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_125",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/tawjeeh-syaqy.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:04:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_126",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/thahira-ilhad.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:05:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_127",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/thaqafa-tanmya.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:06:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_128",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/wahammtbh.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:07:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_129",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/walshuraa.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:08:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_130",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/waqaaia-mutamar.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:09:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_131",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/wayasalonktheqarnaen.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:10:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_132",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/ya-ayha-naby.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:11:00+03:00",
+      "isFeatured": false
+    },
+    {
+      "id": "book_133",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/yawaldy.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:12:00+03:00",
+      "isFeatured": true
+    },
+    {
+      "id": "book_134",
+      "title": "",
+      "author": "حسين بركة الشامي",
+      "presenter": "",
+      "description": "",
+      "partsCount": 2,
+      "price": 1000,
+      "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/zyaarat-alhussayn.png",
+      "parts": [
+        {
+          "partNumber": 1,
+          "title": "الجزء 1",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        },
+        {
+          "partNumber": 2,
+          "title": "الجزء 2",
+          "pages": 400,
+          "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
+        }
+      ],
+      "createdAt": "2026-02-02T10:13:00+03:00",
+      "isFeatured": false
+    }
+  ]
     },
     {
       "id": "aqeedah",
