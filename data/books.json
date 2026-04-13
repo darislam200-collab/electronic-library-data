@@ -2235,20 +2235,14 @@
           "author": "بأقلام محبيه",
           "presenter": "",
           "description": "",
-          "partsCount": 2,
+          "partsCount": 1,
           "price": 1000,
           "coverUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/covers/nema-raheem.jpg",
           "parts": [
             {
               "partNumber": 1,
               "title": "الجزء 1",
-              "pages": 400,
-              "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
-            },
-            {
-              "partNumber": 2,
-              "title": "الجزء 2",
-              "pages": 400,
+              "pages": 159,
               "pdfUrl": "https://raw.githubusercontent.com/darislam200-collab/electronic-library-data/main/books/1.pdf"
             }
           ],
