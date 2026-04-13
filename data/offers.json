@@ -2,14 +2,14 @@
     {
         "id": "offer_001",
         "description": "خصم 20% على مجموعة من الكتب المختارة.",
-        "isActive": true,
+        "isActive": false,
         "isPermanent": true,
         "createdAt": "2026-04-13T10:00:00+03:00"
     },
     {
         "id": "offer_002",
         "description": "عرض خاص لمدة 3 أيام على بعض الإصدارات الجديدة.",
-        "isActive": true,
+        "isActive": false,
         "isPermanent": false,
         "startAt": "2026-04-13T08:00:00+03:00",
         "endAt": "2026-04-13T13:16:59+03:00",
